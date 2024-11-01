@@ -1,0 +1,4 @@
+class AppSecrets{
+  static const supabaseUrl="https://tvpdynbdrwgskcrepzqc.supabase.co";
+  static const supabaseAnonKey="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR2cGR5bmJkcndnc2tjcmVwenFjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjgyNzgxNzcsImV4cCI6MjA0Mzg1NDE3N30.tad1UZi8xqXd0ufihXdsA4IRS01JKxMoIFyxHwFn_sA";
+}
